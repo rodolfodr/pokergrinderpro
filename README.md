@@ -1,4 +1,4 @@
-# Organizador de Poker
+# Poker Grinder Pro
 
 Um aplicativo para organizar janelas de poker automaticamente.
 
@@ -19,14 +19,14 @@ Um aplicativo para organizar janelas de poker automaticamente.
 
 1. Baixe a última versão do [.NET 8.0 Runtime](https://dotnet.microsoft.com/download/dotnet/8.0)
 2. Execute o instalador do .NET Runtime
-3. Baixe a última versão do Organizador de Poker
+3. Baixe a última versão do Poker Grinder Pro
 4. Extraia o arquivo zip para uma pasta de sua preferência
 5. Execute o arquivo `PokerOrganizer.UI.exe`
 
 ## Como Usar
 
 1. Abra suas mesas de poker normalmente
-2. Execute o Organizador de Poker
+2. Execute o Poker Grinder Pro
 3. Clique em "Atualizar" para detectar as janelas
 4. Selecione um layout existente ou crie um novo
 5. O programa organizará as janelas automaticamente
