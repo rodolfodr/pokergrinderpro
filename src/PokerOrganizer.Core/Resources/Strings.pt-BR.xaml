@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    
+    <system:String x:Key="DetectedTables">Mesas Encontradas</system:String>
+    <system:String x:Key="SavedLayouts">Layouts Salvos</system:String>
+    <system:String x:Key="Title">Título</system:String>
+    <system:String x:Key="Room">Sala</system:String>
+    <system:String x:Key="New">Novo</system:String>
+    <system:String x:Key="Save">Salvar</system:String>
+    <system:String x:Key="Cancel">Cancelar</system:String>
+    <system:String x:Key="Apply">Aplicar Layout Selecionado</system:String>
+    <system:String x:Key="Delete">Excluir Layout Selecionado</system:String>
+    <system:String x:Key="Refresh">Atualizar</system:String>
+    <system:String x:Key="Ready">Pronto</system:String>
+    <system:String x:Key="NewLayout">Novo Layout</system:String>
+    <system:String x:Key="Slogan">Sua mesa, seu jeito</system:String>
+    <system:String x:Key="TablesFound">Encontradas {0} janelas de poker</system:String>
+    <system:String x:Key="ErrorUpdatingTables">Erro ao atualizar janelas</system:String>
+    <system:String x:Key="Error">Erro</system:String>
+    <system:String x:Key="Warning">Aviso</system:String>
+    <system:String x:Key="ConfirmDelete">Tem certeza que deseja excluir o layout '{0}'?</system:String>
+    <system:String x:Key="ConfirmDeleteTitle">Confirmar exclusão</system:String>
+    <system:String x:Key="SelectLayoutFirst">Selecione um layout primeiro</system:String>
+    <system:String x:Key="LayoutNotFound">Layout não encontrado</system:String>
+    <system:String x:Key="LayoutApplied">Layout '{0}' aplicado com sucesso</system:String>
+    <system:String x:Key="LayoutPartiallyApplied">Layout '{0}' aplicado parcialmente - algumas janelas não puderam ser movidas</system:String>
+    <system:String x:Key="ErrorMovingWindow">Erro ao mover janela: {0}</system:String>
+    <system:String x:Key="ErrorApplyingLayout">Erro ao aplicar layout: {0}</system:String>
+    <system:String x:Key="EnterLayoutName">Digite um nome para o layout</system:String>
+    <system:String x:Key="LayoutSaved">Layout '{0}' salvo com sucesso</system:String>
+    <system:String x:Key="ErrorSavingLayout">Erro ao salvar layout: {0}</system:String>
+    <system:String x:Key="LayoutDeleted">Layout '{0}' excluído com sucesso</system:String>
+    <system:String x:Key="ErrorDeletingLayout">Erro ao excluir layout: {0}</system:String>
+    <system:String x:Key="ErrorLoadingLanguage">Erro ao carregar o idioma: {0}</system:String>
+</ResourceDictionary> 

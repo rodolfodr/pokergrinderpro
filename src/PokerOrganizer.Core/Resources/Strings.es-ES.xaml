@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    
+    <system:String x:Key="DetectedTables">Mesas Encontradas</system:String>
+    <system:String x:Key="SavedLayouts">Diseños Guardados</system:String>
+    <system:String x:Key="Title">Título</system:String>
+    <system:String x:Key="Room">Sala</system:String>
+    <system:String x:Key="New">Nuevo</system:String>
+    <system:String x:Key="Save">Guardar</system:String>
+    <system:String x:Key="Cancel">Cancelar</system:String>
+    <system:String x:Key="Apply">Aplicar Diseño Seleccionado</system:String>
+    <system:String x:Key="Delete">Eliminar Diseño Seleccionado</system:String>
+    <system:String x:Key="Refresh">Actualizar</system:String>
+    <system:String x:Key="Ready">Listo</system:String>
+    <system:String x:Key="NewLayout">Nuevo Diseño</system:String>
+    <system:String x:Key="Slogan">Tu mesa, tu manera</system:String>
+    <system:String x:Key="TablesFound">Encontradas {0} ventanas de poker</system:String>
+    <system:String x:Key="ErrorUpdatingTables">Error al actualizar las mesas</system:String>
+    <system:String x:Key="Error">Error</system:String>
+    <system:String x:Key="Warning">Advertencia</system:String>
+    <system:String x:Key="ConfirmDelete">¿Estás seguro de que quieres eliminar el diseño '{0}'?</system:String>
+    <system:String x:Key="ConfirmDeleteTitle">Confirmar eliminación</system:String>
+    <system:String x:Key="SelectLayoutFirst">Por favor, selecciona un diseño primero</system:String>
+    <system:String x:Key="LayoutNotFound">Diseño no encontrado</system:String>
+    <system:String x:Key="LayoutApplied">Diseño '{0}' aplicado con éxito</system:String>
+    <system:String x:Key="LayoutPartiallyApplied">Diseño '{0}' aplicado parcialmente - algunas ventanas no se pudieron mover</system:String>
+    <system:String x:Key="ErrorMovingWindow">Error al mover la ventana: {0}</system:String>
+    <system:String x:Key="ErrorApplyingLayout">Error al aplicar el diseño: {0}</system:String>
+    <system:String x:Key="EnterLayoutName">Ingresa un nombre para el diseño</system:String>
+    <system:String x:Key="LayoutSaved">Diseño '{0}' guardado con éxito</system:String>
+    <system:String x:Key="ErrorSavingLayout">Error al guardar el diseño: {0}</system:String>
+    <system:String x:Key="LayoutDeleted">Diseño '{0}' eliminado con éxito</system:String>
+    <system:String x:Key="ErrorDeletingLayout">Error al eliminar el diseño: {0}</system:String>
+    <system:String x:Key="ErrorLoadingLanguage">Error al cargar el idioma: {0}</system:String>
+</ResourceDictionary> 

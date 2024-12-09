@@ -1,0 +1,29 @@
+# Arquivos e diretórios do projeto antigo
+/logic/
+/ui/
+/config/
+/dist/
+/build/
+/assets/
+*.spec
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env/
+.venv/
+
+# Arquivos e diretórios do Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.log 

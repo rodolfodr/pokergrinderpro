@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    
+    <system:String x:Key="DetectedTables">Found Tables</system:String>
+    <system:String x:Key="SavedLayouts">Saved Layouts</system:String>
+    <system:String x:Key="Title">Title</system:String>
+    <system:String x:Key="Room">Room</system:String>
+    <system:String x:Key="New">New</system:String>
+    <system:String x:Key="Save">Save</system:String>
+    <system:String x:Key="Cancel">Cancel</system:String>
+    <system:String x:Key="Apply">Apply Selected Layout</system:String>
+    <system:String x:Key="Delete">Delete Selected Layout</system:String>
+    <system:String x:Key="Refresh">Refresh</system:String>
+    <system:String x:Key="Ready">Ready</system:String>
+    <system:String x:Key="NewLayout">New Layout</system:String>
+    <system:String x:Key="Slogan">Your table, your way</system:String>
+    <system:String x:Key="TablesFound">Found {0} poker windows</system:String>
+    <system:String x:Key="ErrorUpdatingTables">Error updating tables</system:String>
+    <system:String x:Key="Error">Error</system:String>
+    <system:String x:Key="Warning">Warning</system:String>
+    <system:String x:Key="ConfirmDelete">Are you sure you want to delete the layout '{0}'?</system:String>
+    <system:String x:Key="ConfirmDeleteTitle">Confirm deletion</system:String>
+    <system:String x:Key="SelectLayoutFirst">Please select a layout first</system:String>
+    <system:String x:Key="LayoutNotFound">Layout not found</system:String>
+    <system:String x:Key="LayoutApplied">Layout '{0}' successfully applied</system:String>
+    <system:String x:Key="LayoutPartiallyApplied">Layout '{0}' partially applied - some windows could not be moved</system:String>
+    <system:String x:Key="ErrorMovingWindow">Error moving window: {0}</system:String>
+    <system:String x:Key="ErrorApplyingLayout">Error applying layout: {0}</system:String>
+    <system:String x:Key="EnterLayoutName">Enter a name for the layout</system:String>
+    <system:String x:Key="LayoutSaved">Layout '{0}' successfully saved</system:String>
+    <system:String x:Key="ErrorSavingLayout">Error saving layout: {0}</system:String>
+    <system:String x:Key="LayoutDeleted">Layout '{0}' successfully deleted</system:String>
+    <system:String x:Key="ErrorDeletingLayout">Error deleting layout: {0}</system:String>
+    <system:String x:Key="ErrorLoadingLanguage">Error loading language: {0}</system:String>
+</ResourceDictionary> 
